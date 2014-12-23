@@ -12,4 +12,8 @@ public class Avion {
 	public void setAltitude(int altitude ){
 		p.setAltitude(altitude);
 	}
+	
+	public Avion (){
+		System.out.println("Nouvel Avion");
+	}
 }
