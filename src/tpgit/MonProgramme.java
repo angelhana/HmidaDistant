@@ -4,7 +4,11 @@ public class MonProgramme {
 
 	public static void main(String[] args) {
 
+
 		System.out.println("Hello!");
+
+		System.out.println("Bonjour!");
+
 		
 		Avion a1= new Avion();
 		Avion a2=new Avion();
