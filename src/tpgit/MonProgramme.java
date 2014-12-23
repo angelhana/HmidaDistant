@@ -4,7 +4,7 @@ public class MonProgramme {
 
 	public static void main(String[] args) {
 
-		System.out.println("Nangadef!");
+		System.out.println("Hello!");
 		
 		Avion a1= new Avion();
 		Avion a2=new Avion();
