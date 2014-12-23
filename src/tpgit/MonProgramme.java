@@ -7,7 +7,7 @@ public class MonProgramme {
 
 		System.out.println("Hello!");
 
-		System.out.println("Bonjour!tpgit2");
+		System.out.println("Bonjour! toto");
 
 		
 		Avion a1= new Avion();
