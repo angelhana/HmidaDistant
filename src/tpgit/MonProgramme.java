@@ -11,12 +11,7 @@ public class MonProgramme {
 		a2.setAltitude(7000);
 		a1.setAltitude(2000);
 		a2.setAltitude(8000);
-		EspaceAerien espaceParis= new EspaceAerien();
-		espaceParis.addAvion(a1);
-		espaceParis.addAvion(a2);
-		System.out.println(espaceParis.verificationAltitudes());;
-		a1.setAltitude(7500);
-		System.out.println(espaceParis.verificationAltitudes());;
-		}
+
+	}
 
 }
