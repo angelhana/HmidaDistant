@@ -13,6 +13,11 @@ public class Avion {
 		p.setAltitude(altitude);
 	}
 	
+	public void setLatitude(int latitude){
+		p.getLatitude(latitude);
+	}
+	
+	
 	public Avion (){
 
 		System.out.println("New Avion");
